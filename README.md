@@ -3,13 +3,9 @@
 Datos Del Usuario 
 
 Nombre: Pedro Yunior Edubique Hernández
-
 Matrícula: (2025-1422)
-
 Sección: ISW-121-3
-
 Materia: Lógica de Programación
-
 Profesor: Gamalier Reyes del Carmen
 
 Programa de consola en C# que muestra el uso de **herencia y polimorfismo** con un sistema de pagos.
