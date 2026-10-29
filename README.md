@@ -39,11 +39,10 @@ dotnet run
 
 <img width="768" height="153" alt="image" src="https://github.com/user-attachments/assets/61615ce7-3e5d-4663-bb77-5b927d6ee0d7" />
 
+Datos Del Usuario 
 
-## Autor
-
-Pedro Junior Hernández  
-Ingeniería de Software, Universidad Central del Este (UCE)  
-Matrícula: 2025-1422
-
-Profesor : GAMALIER REYES
+Nombre: Pedro Yunior Edubique Hernández
+Matrícula: (2025-1422)
+Sección: ISW-121-3
+Materia: Lógica de Programación
+Profesor: Gamalier Reyes del Carmen
