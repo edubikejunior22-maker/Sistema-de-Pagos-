@@ -4,7 +4,8 @@ Datos Del Usuario
 
 Nombre: Pedro Yunior Edubique Hernández
 Matrícula: (2025-1422)
-Sección: ISW-121-3
+
+sección: ISW-121-3
 Materia: Lógica de Programación
 Profesor: Gamalier Reyes del Carmen
 
