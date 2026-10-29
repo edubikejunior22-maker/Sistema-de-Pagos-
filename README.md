@@ -1,12 +1,14 @@
 # Sistema de pagos en C#
 
-Datos Del Usuario 
+## Datos del usuario
 
-Nombre: Pedro Yunior Edubique Hernández
-Matrícula: (2025-1422)
-sección: ISW-121-3
-Materia: Lógica de Programación
-Profesor: Gamalier Reyes del Carmen
+- **Nombre:** Pedro Yunior Edubique Hernández
+- **Matrícula:** 2025-1422
+- **Sección:** ISW-121-3
+- **Materia:** Lógica de Programación
+- **Profesor:** Gamalier Reyes del Carmen
+
+---
 
 Programa de consola en C# que muestra el uso de **herencia y polimorfismo** con un sistema de pagos.
 
@@ -45,12 +47,10 @@ dotnet run
 
 ## Ejemplo de salida
 
-<img width="768" height="153" alt="image" src="https://github.com/user-attachments/assets/61615ce7-3e5d-4663-bb77-5b927d6ee0d7" />
+```
+Efectivo: monto 1,000.00 -> a pagar 1,000.00
+Tarjeta: monto 2,000.00 -> a pagar 2,060.00
+Transferencia: monto 1,500.00 -> a pagar 1,515.00
 
-Datos Del Usuario 
-
-Nombre: Pedro Yunior Edubique Hernández
-Matrícula: (2025-1422)
-Sección: ISW-121-3
-Materia: Lógica de Programación
-Profesor: Gamalier Reyes del Carmen
+Total: 4,575.00
+```
