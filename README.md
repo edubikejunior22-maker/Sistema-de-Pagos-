@@ -47,10 +47,5 @@ dotnet run
 
 ## Ejemplo de salida
 
-```
-Efectivo: monto 1,000.00 -> a pagar 1,000.00
-Tarjeta: monto 2,000.00 -> a pagar 2,060.00
-Transferencia: monto 1,500.00 -> a pagar 1,515.00
+<img width="757" height="148" alt="image" src="https://github.com/user-attachments/assets/0b168104-c2c3-4ef3-9f77-cae3a263b57c" />
 
-Total: 4,575.00
-```
